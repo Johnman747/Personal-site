@@ -20,7 +20,7 @@ export default function info() {
       <div className="text-muted mx-5 my-4 h3 text-justify info">
         A Passionate Front-end Developer, UI/UX Enthusiast and Web
         Developer.
-        <br /> I Enjoy solving tough technical solutions through creative development. 
+        <br /> I enjoy solving tough technical solutions through creative development. 
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
