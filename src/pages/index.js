@@ -138,9 +138,9 @@ const IndexPage = () => (
           <h2>
             PetHotel-Server
           </h2>
-          <h3>
+          <p>
             A server created in Java with my team
-          </h3>
+          </p>
         </header>
         <a href="https://github.com/Johnman747/PetHotel-Server" className="button style1"  >
           See the Repo Here
