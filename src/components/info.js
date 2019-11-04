@@ -19,8 +19,9 @@ export default function info() {
       <div className="h1 code mt-4 mb-3">async {"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
         A Passionate Front-end Developer, UI/UX Enthusiast and Web
-        Developer.
-        <br /> I Enjoy Solving Tough Technical Solutions Through Creative Development. 
+        Developer Who Enjoys Solving Tough Technical Solutions Through Creative Development. 
+        <br />
+        If You Would Like To Work Together Send Me An Email!
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
