@@ -40,7 +40,7 @@ export default function info() {
         >
           <Youtube />
         </a> */}
-        <a className="mr-5 icon" href="mailto://johnathan.moes@gmail.com">
+        <a className="mr-5 icon" href="mailtojohnathan.moes@gmail.com">
           <Mail />
         </a>
       </div>
