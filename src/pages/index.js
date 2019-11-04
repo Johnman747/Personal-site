@@ -154,7 +154,7 @@ const IndexPage = () => (
       <header>
         <h2>Send me a Message!</h2>
       </header>
-          <a href="#first" className="button style2 scrolly">
+          <a href="mailto:Johnathan.moes@gmail.com" className="button style2">
             I would love to hear from you!
           </a>
     </section>

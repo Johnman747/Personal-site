@@ -1,6 +1,5 @@
 # Johnathan Moes Personal Site
 
-
 ## Built With
 
 React.js
