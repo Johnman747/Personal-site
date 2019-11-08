@@ -63,9 +63,11 @@ const IndexPage = () => (
         <h2>Hello!</h2>
       </header>
       <p>
-        Im A Passionate Fullstack Developer, UI/UX Enthusiast and Web
-        <br />
-        Developer Who Enjoys Solving Tough Technical Solutions Through Creative Development.
+      Johnahtan Moes is a former construction salesman turned coding ninja.
+      <br/>
+      He is passionate about web developer, a loving friend and time magazine’s person of the year in 2006.
+      <br/>
+      He enjoys solving tough technical solutions through creative development and long walks on the beach. 
       </p>
       <footer>
         <Scroll type="id" element="first">
