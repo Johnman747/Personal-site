@@ -82,6 +82,27 @@ const IndexPage = () => (
       <div className="inner">
         <header>
           <h2>
+            WaterWays
+          </h2>
+          <h3>
+            Client Project
+          </h3>
+        </header>
+        <p>
+        WaterWays is a mobile-first web application used for tracking natural springs,
+         seeps, and artesian well water sources. Using Google API, community users are 
+         able to find, locate, and contribute new locations to the map.
+        </p>
+        <a href="https://github.com/Johnman747/WaterWays" className="button style1"  >
+          See the Repo Here
+        </a>
+      </div>
+    </article>
+
+    <article id="first" className="container box style3">
+      <div className="inner">
+        <header>
+          <h2>
             Eventure
           </h2>
           <h3>
