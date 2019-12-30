@@ -65,7 +65,7 @@ const IndexPage = () => (
       <p>
       Johnahtan Moes is a former construction salesman turned coding ninja.
       <br/>
-      He is a passionate about web developer, a loving friend and time magazine’s person of the year in 2006.
+      He is a passionate web developer, a loving friend and time magazine’s person of the year in 2006.
       <br/>
       He enjoys solving tough technical solutions through creative development and long walks on the beach. 
       </p>
