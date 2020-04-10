@@ -82,6 +82,26 @@ const IndexPage = () => (
       <div className="inner">
         <header>
           <h2>
+            The Wellness Habit Podcast
+          </h2>
+          <h3>
+            Client Project
+          </h3>
+        </header>
+        <p>
+        The Wellness Habit is a web application for a podcast about health, bodywork, and personal fitness.
+        The site also is a scheduler for personal training and bodywork sessions.
+        </p>
+        <a href="https://www.thewellnesshabit.co" target="_blank" className="button style1"  >
+          See the Site Here
+        </a>
+      </div>
+    </article>
+
+    <article id="first" className="container box style3">
+      <div className="inner">
+        <header>
+          <h2>
             WaterWays
           </h2>
           <h3>
@@ -150,22 +170,6 @@ const IndexPage = () => (
           This is a project that displays the usage of hash routing and making database requests from client side.
         </p>
         <a href="https://github.com/Johnman747/Student-feedback" className="button style1"  >
-          See the Repo Here
-        </a>
-      </div>
-    </article>
-
-    <article id="first" className="container box style3">
-      <div className="inner">
-        <header>
-          <h2>
-            PetHotel-Server
-          </h2>
-          <p>
-            A server created in Java with my team
-          </p>
-        </header>
-        <a href="https://github.com/Johnman747/PetHotel-Server" className="button style1"  >
           See the Repo Here
         </a>
       </div>
