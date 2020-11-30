@@ -82,6 +82,26 @@ const IndexPage = () => (
       <div className="inner">
         <header>
           <h2>
+            YoYoBoat
+          </h2>
+          <h3>
+            Client Project
+          </h3>
+        </header>
+        <p>
+        YoYoBoat is a peer to peer rental market place to connect boat owners to boat renters. I helped oversee the 
+        development of the site and work with the owners to raise seed money from investors.
+        </p>
+        <a href="https://www.yoyoboat.com" target="_blank" className="button style1"  >
+          See the Site Here
+        </a>
+      </div>
+    </article>
+
+    <article id="first" className="container box style3">
+      <div className="inner">
+        <header>
+          <h2>
             The Wellness Habit Podcast
           </h2>
           <h3>
@@ -113,7 +133,7 @@ const IndexPage = () => (
          seeps, and artesian well water sources. Using Google API, community users are 
          able to find, locate, and contribute new locations to the map.
         </p>
-        <a href="https://github.com/Johnman747/WaterWays" className="button style1"  >
+        <a href="https://github.com/Johnman747/WaterWays" target="_blank" className="button style1"  >
           See the Repo Here
         </a>
       </div>
@@ -132,44 +152,7 @@ const IndexPage = () => (
         <p>
           Eventure is an easy to use party planner web app. Users can create, update and delete events. They can also see events in their area. When an event is created the user it sends out emails with a dynamicly created url for the guests to click and be grought to the website to RSVP.
         </p>
-        <a href="https://github.com/Johnman747/Eventure" className="button style1"  >
-          See the Repo Here
-        </a>
-      </div>
-    </article>
-
-    <article id="first" className="container box style3">
-      <div className="inner">
-        <header>
-          <h2>
-            Movie-Sagas
-          </h2>
-          <h3>
-            Prime Digital Academy Project
-          </h3>
-        </header>
-        <p>
-          This is an application that is a full CRUD application. You can view movie details that are stored in the database. You can edit that information as well as add and delete genres to the movie.        </p>
-        <a href="https://github.com/Johnman747/movie-sagas" className="button style1" >
-          See the Repo Here
-        </a>
-      </div>
-    </article>
-
-    <article id="first" className="container box style3">
-      <div className="inner">
-        <header>
-          <h2>
-            Student-Feedback
-          </h2>
-          <h3>
-            Prime Digital Academy Project
-          </h3>
-        </header>
-        <p>
-          This is a project that displays the usage of hash routing and making database requests from client side.
-        </p>
-        <a href="https://github.com/Johnman747/Student-feedback" className="button style1"  >
+        <a href="https://github.com/Johnman747/Eventure" target="_blank" className="button style1"  >
           See the Repo Here
         </a>
       </div>
@@ -180,21 +163,13 @@ const IndexPage = () => (
     <section id="banner">
       <header>
         <h2>Send me a Message!</h2>
+        <h3>Johnathan.moes@gmail.com</h3>
       </header>
           <a href="mailto:Johnathan.moes@gmail.com" className="button style2">
             I would love to hear from you!
           </a>
     </section>
 
-{/* <article className="container box style3">
-      <header>
-        <h2>Elements</h2>
-        <p>This starter has other elements.</p>
-        <br />
-        Check it out
-        <Link to="/Element"> here </Link>
-      </header>
-    </article> */}
 
     <Footer />
   </Layout>
